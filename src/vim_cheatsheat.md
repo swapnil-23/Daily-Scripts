@@ -13,3 +13,7 @@
 7. to move around the file = ``` h -> move left, j -> move down, k -> move up, l -> move right```
 
 8. to run the commands directly from the vim = ```press :! <the command>```
+
+working with the visual mode
+
+1. to copy paste a line = ``` enter into the visual mode by pressing ```v``` then highlight the text by using the arrow keys or h,j,k,l and copy using ```y``` and pasting the stuffs using ```p``` ```
